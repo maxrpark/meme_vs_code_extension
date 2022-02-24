@@ -16,7 +16,14 @@ Install Meme extension and it will be ready to be used.
 
 ## Usage
 
-You can open Visual Studio search bar `cmd+shift+p` and type `meme` or use the shortcut `shift+space` and then type the meme or gif you would like to see.
+Open Visual Studio search bar `cmd+shift+p` and type `meme` or use the shortcut `shift+space` and then type the meme or gif you would like to see.
+
+<div align="center">
+  
+![Alt Text](https://raw.githubusercontent.com/maxrpark/meme_vs_code_extension/main/image/demo.gif)
+  
+</div>
+
 
 After you press enter a new window will be open with the result from [giphy](https://giphy.com/) related to your search.
 
@@ -55,4 +62,3 @@ I hope you enjoy it and have some fun time.
 If you enjoyed it let me know on [Twitter](https://twitter.com/MaxCodeJourney)
 
 **Enjoy!**
-# meme_vs_code_extension

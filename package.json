@@ -20,6 +20,11 @@
   ],
   "license": "SEE LICENSE IN LICENSE.txt",
   "main": "./extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxrpark/meme_vs_code_extension.git"
+  },
+  "homepage": "https://github.com/maxrpark/meme_vs_code_extension/blob/main/README.md",
   "contributes": {
     "commands": [
       {

@@ -2,7 +2,7 @@
 
 Welcome to meme - gif extension!
 
-Something the only thing that will help you solve your (coding) problem is to take a break and clear out your mind.
+Some times the only thing that will help you solve your (coding) problem is to take a break and clear out your mind.
 
 And there is no better way of doing that than looking at something that makes us feel good.
 
@@ -23,7 +23,6 @@ Open Visual Studio search bar `cmd+shift+p` and type `meme` or use the shortcut 
 ![Alt Text](https://raw.githubusercontent.com/maxrpark/meme_vs_code_extension/main/image/demo.gif)
   
 </div>
-
 
 After you press enter a new window will be open with the result from [giphy](https://giphy.com/) related to your search.
 

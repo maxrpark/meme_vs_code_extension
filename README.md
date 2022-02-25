@@ -12,7 +12,7 @@ The main purpose of this extension is that you laugh.
 
 ## Extension Settings
 
-Install Meme extension and it will be ready to be used.
+Install Meme from vs code market place or download and install it from [here](https://marketplace.visualstudio.com/items?itemName=MaxCode.meme) and after that it will be ready to be used.
 
 ## Usage
 

@@ -2,7 +2,7 @@
   "name": "meme",
   "displayName": "meme",
   "description": "Take a break from your day to day tasks and enjoy a meme.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "MaxCode",
   "icon": "image/logo.png",
   "engines": {
@@ -12,7 +12,7 @@
     "Other"
   ],
   "galleryBanner": {
-    "color": "#fcf2ff",
+    "color": "grey",
     "theme": "dark"
   },
   "activationEvents": [

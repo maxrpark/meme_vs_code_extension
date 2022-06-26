@@ -2,6 +2,8 @@
 
 Welcome to meme - gif extension!
 
+Note: If you enjoy the extension, I would appreciate and be very grateful if you endorse me on [LinkedIn](https://www.linkedin.com/in/maxi-ruti-202988227/) 😇, because it would help me tremendously.
+
 Some times the only thing that will help you solve your (coding) problem is to take a break and clear out your mind.
 
 And there is no better way of doing that than looking at something that makes us feel good.
@@ -22,9 +24,7 @@ Open Visual Studio search bar `cmd+shift+p` and type `meme` or use the shortcut 
   
 ![Alt Text](https://raw.githubusercontent.com/maxrpark/meme_vs_code_extension/main/image/demo.gif)
   
-</div>
-
-After you press enter a new window will be open with the result from [giphy](https://giphy.com/) related to your search.
+</div>ress enter a new window will be open with the result from [giphy](https://giphy.com/) related to your search.
 
 There is nothing special about this extension but that.
 
@@ -34,27 +34,27 @@ I hope you enjoy it and have some fun time.
 
 ### Physical health benefits
 
-- Boosts immunity
-- Lowers stress hormones
-- Decreases pain
-- Relaxes your muscles
-- Prevents heart disease
+-   Boosts immunity
+-   Lowers stress hormones
+-   Decreases pain
+-   Relaxes your muscles
+-   Prevents heart disease
 
 ### Mental health benefits
 
-- Adds joy and zest to life
-- Eases anxiety and tension
-- Relieves stress
-- Improves mood
-- Strengthens resilience
+-   Adds joy and zest to life
+-   Eases anxiety and tension
+-   Relieves stress
+-   Improves mood
+-   Strengthens resilience
 
 ### Social benefits
 
-- Strengthens relationships
-- Attracts others to us
-- Enhances teamwork
-- Helps defuse conflict
-- Promotes group bonding
+-   Strengthens relationships
+-   Attracts others to us
+-   Enhances teamwork
+-   Helps defuse conflict
+-   Promotes group bonding
 
 ## I would love to hear from you
 

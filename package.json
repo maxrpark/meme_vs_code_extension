@@ -1,64 +1,64 @@
 {
-  "name": "meme",
-  "displayName": "meme",
-  "description": "Take a break from your day to day tasks and enjoy a meme.",
-  "version": "1.0.2",
-  "publisher": "MaxCode",
-  "icon": "image/logo.png",
-  "engines": {
-    "vscode": "^1.64.0"
-  },
-  "categories": [
-    "Other"
-  ],
-  "galleryBanner": {
-    "color": "grey",
-    "theme": "dark"
-  },
-  "activationEvents": [
-    "onCommand:socorro.socorro"
-  ],
-  "license": "SEE LICENSE IN LICENSE.txt",
-  "main": "./extension.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maxrpark/meme_vs_code_extension.git"
-  },
-  "homepage": "https://github.com/maxrpark/meme_vs_code_extension/blob/main/README.md",
-  "contributes": {
-    "commands": [
-      {
-        "command": "socorro.socorro",
-        "title": "meme"
-      }
+    "name": "meme",
+    "displayName": "meme",
+    "description": "Take a break from your day to day tasks and enjoy a meme.",
+    "version": "1.0.5",
+    "publisher": "MaxCode",
+    "icon": "image/logo.png",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Other"
     ],
-    "keybindings": [
-      {
-        "command": "socorro.socorro",
-        "key": "shift+space",
-        "mac": "shift+space"
-      }
-    ]
-  },
-  "scripts": {
-    "lint": "eslint .",
-    "pretest": "npm run lint",
-    "test": "node ./test/runTest.js"
-  },
-  "devDependencies": {
-    "@types/glob": "^7.2.0",
-    "@types/mocha": "^9.1.0",
-    "@types/node": "14.x",
-    "@types/vscode": "^1.64.0",
-    "@vscode/test-electron": "^2.1.2",
-    "eslint": "^8.9.0",
-    "glob": "^7.2.0",
-    "mocha": "^9.2.1",
-    "typescript": "^4.5.5"
-  },
-  "dependencies": {
-    "axios": "^0.26.0",
-    "open": "^8.4.0",
-    "vsce": "^2.6.7"
-  }
+    "galleryBanner": {
+        "color": "grey",
+        "theme": "dark"
+    },
+    "activationEvents": [
+        "onCommand:socorro.socorro"
+    ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "main": "./extension.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxrpark/meme_vs_code_extension.git"
+    },
+    "homepage": "https://github.com/maxrpark/meme_vs_code_extension/blob/main/README.md",
+    "contributes": {
+        "commands": [
+            {
+                "command": "socorro.socorro",
+                "title": "meme"
+            }
+        ],
+        "keybindings": [
+            {
+                "command": "socorro.socorro",
+                "key": "shift+space",
+                "mac": "shift+space"
+            }
+        ]
+    },
+    "scripts": {
+        "lint": "eslint .",
+        "pretest": "npm run lint",
+        "test": "node ./test/runTest.js"
+    },
+    "devDependencies": {
+        "@types/glob": "^7.2.0",
+        "@types/mocha": "^9.1.0",
+        "@types/node": "14.x",
+        "@types/vscode": "^1.64.0",
+        "@vscode/test-electron": "^2.1.2",
+        "eslint": "^8.9.0",
+        "glob": "^7.2.0",
+        "mocha": "^9.2.1",
+        "typescript": "^4.5.5"
+    },
+    "dependencies": {
+        "axios": "^0.26.0",
+        "open": "^8.4.0",
+        "vsce": "^2.6.7"
+    }
 }
